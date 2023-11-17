@@ -12,7 +12,8 @@ If you are interested in the code for the Monte Carlo Simulations, it is written
 If you want to learn more about FIRE, see [here](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp)
 
 If you are interested in the Statistical Analysis and how to derived the math functions to simulate the variables like annual returns and death age, you can read the pdf report in the repo
+
 Main Takeaways on the report in terms of retirement are:
- - Current average Canadian finances give low confidence of a successful retirement 66.08% (success is determined by their savings after retirement would sustain their lifestyle unitl death)
+ - Current average Canadian finances give low confidence of a successful retirement 66.08% (success is determined by their savings after retirement would sustain their lifestyle until death)
  - FIRE has an extremely high susscess rate 94.67%, but its frugality may not be realistic for the average Canadian
  - If the average Canadian wants to have a high chance of successful retirement, they should be saving at least 14.1% of their annual income
